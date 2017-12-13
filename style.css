@@ -1,0 +1,10 @@
+article {
+  font-family: 'Indie Flower', cursive;
+  max-width: 1000px;
+  padding: 20px;
+  margin: 0 auto;
+  color: black;
+}
+h1 {
+  font-size: 80px;
+}
